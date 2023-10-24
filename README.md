@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Kadree</h1>
 <h3 align="center">I'm Currey a Student at TUS and Here is my CV</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k00275987&label=Profile%20views&color=0e75b6&style=flat" alt="k00275987" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelkadree&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelkadree" /> </p>
 
 - 🌱 I’m currently learning **Game Design and Development**
 
