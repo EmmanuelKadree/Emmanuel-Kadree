@@ -35,12 +35,7 @@ font-size: 100;}
 <img src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/aeab4394-3e61-4465-bc77-a6ac799fb590.jpg" width="250" height="250"/>
 
 <h3> Project demo video </h3>
-<section>
-<video>
   <source src="/screenshots/download.jpg" type="video/mp4">
-</video>
-</section>
-
 </body>
 </html> 
 
