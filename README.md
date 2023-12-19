@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <head>
 <style>
 body {background-color: powderblue;}
@@ -36,6 +35,11 @@ font-size: 100;}
 <h3> Project demo video </h3>
 <video width="450" height="450" autoplay>
 <source src="screenshots/videoplayback.mp4" type="video/mp4">
+</video>
+<img src="screenshots/videoplayback.mp4" width="200">
+
+<video width="320" height="240" controls>
+  <source src="videoplayback.mp4" type="video/mp4">
 </video>
 
 </body>
