@@ -35,8 +35,8 @@ font-size: 100;}
 <img src="screenshots/helix_jump_android_ios_009.jpg" width="250" height="250">
 
 <h3> Project demo video </h3>
-<video height="1260" autoplay>
-<source  type="video/mp4" src="screenshots/videoplayback.mp4">
+<video height="360" autoplay>
+<source type="video/mp4" src="videoplayback.mp4">
 </video>
 </body>
 </html>
