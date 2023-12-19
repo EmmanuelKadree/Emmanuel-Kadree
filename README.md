@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Kadree</h1>
-<h3 align="center">I'm Currey a Student at TUS and Here is my CV</h3>
+ 
+<head>
+  <link href="style. css" rel="stylesheet" ></link>
+</head>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelkadree&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelkadree" /> </p>
+<h1 align="center">Helix Jump</h1>
+  
+<h3>Brief description of the game</h3>
+<p>Helix Jump is an arcade game with simple and addictively fun mechanics. In the   game,you guide a bouncing ball continuously down a series of circular platforms.   Fall through the cracks and avoid landing in the forbidden zones!</p>
+<a href=https://www.crazygames.com/game/helix-jump>Click here to play the Game</a>
 
-- 🌱 I’m currently learning **Game Design and Development**
+<h3>How to play the game</h3>
+<h3>Step 1</h3>
+<p>It’s easy to follow the basic mechanics of Helix Jump. The key is mastering your reflexes and looking ahead.</p>
+<img src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/f8743141-ed3c-43fa-9fd2-4a22b961827e.jpg" width="250" height="250"/>
 
-- 📫 How to reach me **emmanuelkadree5@gmail.com**
+<h3>Step 2</h3>
+<p>To guide the bouncing ball, rotate the platforms to align the ball with the cracks.</p>
+<img src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/8faf06bb-ae20-4837-84cb-2a2395215223.jpg" width="250" height="250"/>
 
-- ⚡ Fun fact **I like playing Game**
+<h3>Step 3</h3>
+<p>Do this in quick succession for a combo move and higher points.</p>
+<img src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/0751d8d8-e485-4d58-8272-55ae559b2039.jpg" width="250" height="250"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3>Step 4</h3>
+<p>If you go through 3 levels in quick succession, you're invincible for the first bounce after.</p>
+<img src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/aeab4394-3e61-4465-bc77-a6ac799fb590.jpg" width="250" height="250"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h3> Project demo video </h3>
+<section>
+<video src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/83176737-4e3a-4dd4-b692-6e7b5f0ebcae.mp4"></video>
+</section>
