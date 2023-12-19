@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <style>
 body {background-color: powderblue;}
@@ -37,3 +39,4 @@ font-size: 100;}
 <source src="videoplayback.mp4" type="video/mp4">
 </video>
 </body>
+</html>
