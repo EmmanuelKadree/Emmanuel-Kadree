@@ -36,7 +36,7 @@ font-size: 100;}
 
 <h3> Project demo video </h3>
 <video height="1360" autoplay>
-<source src="videoplayback.mp4" type="video/mp4">
+<source src="screenshots/videoplayback.mp4" type="video/mp4">
 </video>
 </body>
 </html>
