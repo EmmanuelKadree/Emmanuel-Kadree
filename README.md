@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+body {background-color: powderblue;}
+h1 {color: blue;}
+p {color: red;}
+</style>
 <title>Helix Jump Tutorial</title>
 </head>
 <body>
 
-<head>
   <link href="style. css" rel="stylesheet" ></link>
-</head>
-
+  
 <h1 align="center">Helix Jump</h1>
   
 <h3>Brief description of the game</h3>
 <p>Helix Jump is an arcade game with simple and addictively fun mechanics. In the   game,you guide a bouncing ball continuously down a series of circular platforms.   Fall through the cracks and avoid landing in the forbidden zones!</p>
-<a href=https://www.crazygames.com/game/helix-jump>Click here to play the Game</a>
+<a href="https://www.crazygames.com/game/helix-jump" target="_blank">Click here to play the Game</a>
 
 <h3>How to play the game</h3>
 <h3>Step 1</h3>
