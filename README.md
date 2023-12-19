@@ -5,9 +5,8 @@
 body {background-color: powderblue;}
 h1 {color: blue;}
 p {color: black;
-font-size: 20px;}
-.p1 {
-  font-family: "Times New Roman", Times, serif;}
+font-size: 100;}
+.p1 {font-family: "Times New Roman", Times, serif;}
 </style>
 </head>
 <body>
@@ -38,8 +37,7 @@ font-size: 20px;}
 <h3> Project demo video </h3>
 <section>
 <video>
-  <source src="videoplayback.mp4" type="video/mp4">
-<source src="https://github.com/EmmanuelKadree/EmmanuelKadree/assets/147099993/83176737-4e3a-4dd4-b692-6e7b5f0ebcae.mp4" type="video/mp4">
+  <source src="/screenshots/download.jpg" type="video/mp4">
 </video>
 </section>
 
