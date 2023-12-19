@@ -35,7 +35,7 @@ font-size: 100;}
 
 <h3> Project demo video </h3>
 <video height="360" controls>
-<source src="[screenshots/videoplayback.mp4](https://github.com/EmmanuelKadree/EmmanuelKadree/assets/147099993/c7018817-75f8-4eb4-9055-9251cb36eba0)https://github.com/EmmanuelKadree/EmmanuelKadree/assets/147099993/c7018817-75f8-4eb4-9055-9251cb36eba0.mp4" type="video/mp4">
+<source src="https://github.com/EmmanuelKadree/EmmanuelKadree/assets/147099993/c7018817-75f8-4eb4-9055-9251cb36eba0.mp4" type="video/mp4">
 </video>
 </body>
 </html>
