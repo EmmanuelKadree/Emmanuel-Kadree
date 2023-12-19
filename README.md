@@ -14,7 +14,7 @@ font-size: 100;}
 <h1 align="center">Helix Jump</h1>
   
 <h3>Brief description of the game</h3>
-<p>Helix Jump is an arcade game with simple and addictively fun mechanics. In the   game,you guide a bouncing ball continuously down a series of circular platforms.   Fall through the cracks and avoid landing in the forbidden zones!</p>
+<p>Helix Jump is an arcade game with simple and addictively fun mechanics. In the   game,you guide a bouncing ball continuously down a series of circular platforms.Fall through the cracks and avoid landing in the forbidden zones!</p>
 <a href="https://www.crazygames.com/game/helix-jump" target="_blank">Click here to play the Game</a>
 
 <h3>How to play the game</h3>
@@ -35,7 +35,7 @@ font-size: 100;}
 <img src="screenshots/helix_jump_android_ios_009.jpg" width="250" height="250">
 
 <h3> Project demo video </h3>
-<video width="206" height="360" autoplay>
+<video width="106" height="160" autoplay>
 <source src="screenshots/videoplayback.mp4" type="video/mp4">
 </video>
 
