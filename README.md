@@ -20,7 +20,7 @@ font-size: 100;}
 <h3>How to play the game</h3>
 <h3>Step 1</h3>
 <p>It’s easy to follow the basic mechanics of Helix Jump. The key is mastering your reflexes and looking ahead.</p>
-<img src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/f8743141-ed3c-43fa-9fd2-4a22b961827e/screenshots/download.jpg" width="250" height="250"/>
+<img src="screenshots/download.jpg" width="250" height="250"/>
 
 <h3>Step 2</h3>
 <p>To guide the bouncing ball, rotate the platforms to align the ball with the cracks.</p>
