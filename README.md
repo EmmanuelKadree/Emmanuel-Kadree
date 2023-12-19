@@ -6,6 +6,8 @@ body {background-color: powderblue;}
 h1 {color: blue;}
 p {color: black;
 font-size: 20px;}
+.p1 {
+  font-family: "Times New Roman", Times, serif;}
 </style>
 </head>
 <body>
@@ -19,7 +21,7 @@ font-size: 20px;}
 <h3>How to play the game</h3>
 <h3>Step 1</h3>
 <p>It’s easy to follow the basic mechanics of Helix Jump. The key is mastering your reflexes and looking ahead.</p>
-<img src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/f8743141-ed3c-43fa-9fd2-4a22b961827e.jpg" width="250" height="250"/>
+<img src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/f8743141-ed3c-43fa-9fd2-4a22b961827e/screenshots/download.jpg" width="250" height="250"/>
 
 <h3>Step 2</h3>
 <p>To guide the bouncing ball, rotate the platforms to align the ball with the cracks.</p>
@@ -35,7 +37,10 @@ font-size: 20px;}
 
 <h3> Project demo video </h3>
 <section>
-<video src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/83176737-4e3a-4dd4-b692-6e7b5f0ebcae.mp4"></video>
+<video>
+  <source src="videoplayback.mp4" type="video/mp4">
+<source src="https://github.com/EmmanuelKadree/EmmanuelKadree/assets/147099993/83176737-4e3a-4dd4-b692-6e7b5f0ebcae.mp4" type="video/mp4">
+</video>
 </section>
 
 </body>
