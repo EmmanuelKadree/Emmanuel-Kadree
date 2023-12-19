@@ -1,16 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {background-color: powderblue;}
-h1 {color: blue;}
-p {color: red;}
-</style>
-<title>Helix Jump Tutorial</title>
+<link href="style.css" rel="stylesheet">
 </head>
 <body>
-
-  <link href="style. css" rel="stylesheet" ></link>
   
 <h1 align="center">Helix Jump</h1>
   
