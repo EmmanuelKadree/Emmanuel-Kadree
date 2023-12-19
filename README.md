@@ -1,4 +1,10 @@
- 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Helix Jump Tutorial</title>
+</head>
+<body>
+
 <head>
   <link href="style. css" rel="stylesheet" ></link>
 </head>
@@ -30,3 +36,7 @@
 <section>
 <video src="https://github.com/EmmanuelKadree/Emmanuel-Kadree/assets/147099993/83176737-4e3a-4dd4-b692-6e7b5f0ebcae.mp4"></video>
 </section>
+
+</body>
+</html> 
+
